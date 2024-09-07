@@ -17,6 +17,10 @@ My pfp on all my accounts look like this:
 
 - Me and my friends have a "good" [OWOT](https://ourworldoftext.com/kdaui) page (Anything sent in here has no reflections upon either me or my friends opinions on topics)
 
+- Saku and Subaru need to get together
+
+- Congrats Chloe and Liliana on being senior citizens!
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
