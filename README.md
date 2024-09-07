@@ -9,6 +9,8 @@ My pfp on all my accounts look like this:
 
 - 🔭 I’m always working on [kdaui.github.io](github.com/kdaui/kdaui.github.io)
 
+- [![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://kdaui.github.io)
+
 - 🌱 I’m currently learning **Computer Science at GCSE level.**
 
 - 📫 How to reach me **@kdaui. on Discord (with the full stop)**
