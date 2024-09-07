@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kdaui&label=Profile%20views&color=0e75b6&style=flat" alt="kdaui" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kdaui" alt="kdaui" /></a> </p>
-
 - 🔭 I’m always working on [kdaui.github.io](github.com/kdaui/kdaui.github.io)
 
 - 🌱 I’m currently learning **Computer Science at GCSE level.**
