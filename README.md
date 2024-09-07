@@ -2,14 +2,13 @@
 <h3 align="center">A passionate frontend developer from the horrible country known as England.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kdaui&label=Profile%20views&color=0e75b6&style=flat" alt="kdaui" /> </p>
+[![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://kdaui.github.io)
 
 My pfp on all my accounts look like this:
 
 ![PFP](https://kdaui.github.io/profile-pic.jpg)
 
 - 🔭 I’m always working on [kdaui.github.io](github.com/kdaui/kdaui.github.io)
-
-- [![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://kdaui.github.io)
 
 - 🌱 I’m currently learning **Computer Science at GCSE level.**
 
