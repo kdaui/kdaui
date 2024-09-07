@@ -15,6 +15,8 @@ My pfp on all my accounts look like this:
 
 - ⚡ Fun fact **I might've comitted a crime in Pakistan.**
 
+- Me and my friends have a "good" [OWOT](https://ourworldoftext.com/kdaui) page (Anything sent in here has no reflections upon either me or my friends opinions on topics)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
