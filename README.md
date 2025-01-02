@@ -22,8 +22,8 @@ My pfp on all my accounts look like this:
 - Congrats Chloe and Liliana on being senior citizens!
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
 [Bluesky](https://bsky.app/profile/kdaui.github.io)
+<p align="left">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
