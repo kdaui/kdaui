@@ -3,17 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kdaui&label=Profile%20views&color=0e75b6&style=flat" alt="kdaui" /> </p>
 
-My pfp on all my accounts look like this:
+- 🔭 I’m always working on my websie: [kdaui.github.io](github.com/kdaui/kdaui.github.io)
 
-![PFP](https://kdaui.github.io/profile-pic.jpg)
+- 🌱 I’m currently learning: **Computer Science at a BTEC Level 3.**
 
-- 🔭 I’m always working on [kdaui.github.io](github.com/kdaui/kdaui.github.io)
-
-- 🌱 I’m currently learning **Computer Science at GCSE level.**
-
-- 📫 How to reach me **@kdaui. on Discord (with the full stop)**
-
-- ⚡ Fun fact **I might've comitted a crime in Pakistan.**
+- 📫 How to reach me: **@kdaui. on Discord (with the full stop)**
 
 - Me and my friends have a "good" [OWOT](https://ourworldoftext.com/kdaui) page (Anything sent in here has no reflections upon either me or my friends opinions on topics)
 
