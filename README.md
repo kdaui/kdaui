@@ -9,15 +9,15 @@
 - I loooooooooooooooooooooooooooooooooove Serial Experiments Lain.
 
 <h3 align="left">Contacts:</h3>
-Bluesky:
-@kdaui.github.io
-Discord:
-**@kdaui.** (with the full stop)
-Twitter:
-@kdaui__
+- Bluesky:
+- @kdaui.github.io
+- Discord:
+- **@kdaui.** (with the full stop)
+- Twitter:
+- @kdaui__
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kdaui&show_icons=true&locale=en&layout=compact" alt="kdaui" /></p>
+- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kdaui&show_icons=true&locale=en&layout=compact" alt="kdaui" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kdaui&show_icons=true&locale=en" alt="kdaui" /></p>
+- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kdaui&show_icons=true&locale=en" alt="kdaui" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kdaui&" alt="kdaui" /></p>
+- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kdaui&" alt="kdaui" /></p>
