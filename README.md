@@ -18,9 +18,3 @@ Discord: </br>
 </br>
 Twitter: </br>
 @kdaui__ </br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kdaui&show_icons=true&locale=en&layout=compact" alt="kdaui" /></p></br>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kdaui&show_icons=true&locale=en" alt="kdaui" /></p></br>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kdaui&" alt="kdaui" /></p></br>
