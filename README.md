@@ -3,42 +3,19 @@
 <h1 align="center">Hi, I'm kdaui</h1>
 <h3 align="center">I breathe, I guess.</h3>
 
----
-
-## 📌 Projects
-
-| Repo | Description |
-|------|-------------|
-| [kdaui.github.io](https://github.com/kdaui/kdaui.github.io) | My main website |
-| [posts](https://github.com/kdaui/posts) | A collection of random projects |
-| [tutorials](https://github.com/kdaui/tutorials) | Tutorials I've written |
-| [backups](https://github.com/kdaui/backups) | Archived websites I've found |
-| [Mirrors-Edge-Archive](https://github.com/kdaui/Mirrors-Edge-Archive) | An archive for a game that deserves one |
-| [Quotes_API](https://github.com/kdaui/Quotes_API) | Anime/game quotes for my site |
-| [IA](https://github.com/kdaui/IA) | Things I upload to Internet Archive |
-
----
-
-## 📚 Currently Learning
-
-Computer Science at BTEC Level 3
-
----
-
-## 🔗 Links
-
-- Bluesky: [@kdaui.github.io](https://bsky.app/profile/kdaui.github.io)
-- Discord: **@kdaui.** (with the full stop)
-- Twitter: [@kdaui__](https://twitter.com/kdaui__)
-- OWOT: [ourworldoftext.com/kdaui](https://ourworldoftext.com/kdaui) *(anything sent here has no reflection on me or my friends' opinions)*
-
----
-
-## 💭 Random Thoughts
-
+- I'm always working on my website: [kdaui.github.io](github.com/kdaui/kdaui.github.io)
+- I'm currently learning: **Computer Science at BTEC Level 3**
+- Me and my friends have a "good" [OWOT](https://ourworldoftext.com/kdaui) page (Anything sent in here has no reflections upon either me or my friends opinions on topics)
 - Saku and Subaru need to get together
-- I *loooooooooooooooooooooooooooooooooove* Serial Experiments Lain
+- I loooooooooooooooooooooooooooooooooove Serial Experiments Lain.
 
----
+<h3 align="left">Contacts:</h3>
 
-<p align="center"><i>Me and my friends have a "good" OWOT page.</i></p>
+Bluesky: </br>
+@kdaui.github.io </br>
+</br>
+Discord: </br>
+**@kdaui.** (with the full stop) </br>
+</br>
+Twitter: </br>
+@kdaui__ </br>
